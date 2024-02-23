@@ -35,7 +35,6 @@ for i in range(len(x)):
   plt.scatter(x,y)
   plt.plot(x,y_pred,color="blue")
   plt.show()
-
 ## Output:
 ![best fit line]((https://github.com/aryabaisakhiya/Find-the-best-fit-line-using-Least-Squares-Method/assets/119393645/07c4c762-138c-49d1-a180-f33084448fb5))
 
