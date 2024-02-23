@@ -38,7 +38,8 @@ for i in range(len(x)):
   plt.show()
 ```
 ## Output:
-![best fit line]((https://github.com/aryabaisakhiya/Find-the-best-fit-line-using-Least-Squares-Method/assets/119393645/07c4c762-138c-49d1-a180-f33084448fb5))
+![best fit line]![ml1](https://github.com/aryabaisakhiya/Find-the-best-fit-line-using-Least-Squares-Method/assets/119393645/8d7a7c39-f7a3-4a04-aa2b-8b11d6e815e7)
+
 
 
 ## Result:
